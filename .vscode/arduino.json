@@ -2,5 +2,6 @@
     "board": "attiny:avr:ATtinyX5",
     "port": "COM8",
     "programmer": "arduino:arduinoasisp",
-    "configuration": "cpu=attiny85,clock=internal8"
+    "configuration": "cpu=attiny85,clock=internal8",
+    "sketch": "attiny85_get_temperature\\attiny85_get_temperature.ino"
 }
