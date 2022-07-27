@@ -18,6 +18,7 @@
             "includePath": [
                 "C:\\Users\\flolo\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.4\\cores\\arduino",
                 "C:\\Users\\flolo\\AppData\\Local\\Arduino15\\packages\\attiny\\hardware\\avr\\1.0.2\\variants\\tiny8",
+                "C:\\Users\\flolo\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.4\\libraries\\SoftwareSerial\\src",
                 "c:\\users\\flolo\\appdata\\local\\arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7\\lib\\gcc\\avr\\7.3.0\\include",
                 "c:\\users\\flolo\\appdata\\local\\arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7\\lib\\gcc\\avr\\7.3.0\\include-fixed",
                 "c:\\users\\flolo\\appdata\\local\\arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7\\avr\\include"
